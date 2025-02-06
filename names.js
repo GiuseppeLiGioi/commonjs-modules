@@ -16,3 +16,7 @@ return {
 console.log(objName("mario", "rossi"));
 
 module.exports = objName;
+
+
+//ESPORTAZIONE CON ESM
+//export default objName;

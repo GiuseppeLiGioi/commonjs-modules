@@ -14,3 +14,11 @@ console.log(arrayHobby) ;
 
 
 arrHobby("calcio", "basket", "tennis");
+
+
+module.exports = arrHobby;
+
+
+
+//ESPORTAZIONE CON ESM
+//export default arrHobby;
