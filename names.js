@@ -13,7 +13,7 @@ return {
 
 }
 
-console.log(objName("mario", "rossi"));
+//console.log(objName("mario", "rossi"));
 
 module.exports = objName;
 

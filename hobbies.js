@@ -9,11 +9,11 @@
 function arrHobby(hobbyOne, hobbyTwo, hobbyThree){
 let arrayHobby = [];
 arrayHobby.push(hobbyOne, hobbyTwo, hobbyThree);
-console.log(arrayHobby) ;
+return arrayHobby;
 }
 
 
-arrHobby("calcio", "basket", "tennis");
+//console.log(arrHobby("calcio", "basket", "tennis"));
 
 
 module.exports = arrHobby;
